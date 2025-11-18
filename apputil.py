@@ -68,6 +68,8 @@ def update_board(current_board):
     return updated_board
 
 
+
+
 def show_game(game_board, n_steps=10, pause=0.5):
     """
     Show `n_steps` of Conway's Game of Life, given the `update_board` function.
